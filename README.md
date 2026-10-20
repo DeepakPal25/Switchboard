@@ -1,6 +1,6 @@
 # Switchboard
 
-[![CI](https://github.com/YOUR_USERNAME/Switchboard/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR_USERNAME/Switchboard/actions/workflows/ci.yml)
+[![CI](https://github.com/DeepakPal25/Switchboard/actions/workflows/ci.yml/badge.svg)](https://github.com/DeepakPal25/Switchboard/actions/workflows/ci.yml)
 ![Swift 6](https://img.shields.io/badge/Swift-6.0-F05138?logo=swift&logoColor=white)
 ![Platforms](https://img.shields.io/badge/platforms-iOS%2017%20%7C%20macOS%2014%20%7C%20tvOS%20%7C%20watchOS%20%7C%20visionOS-blue)
 ![SPM](https://img.shields.io/badge/SPM-compatible-brightgreen)
@@ -43,7 +43,7 @@ No string keys at call sites, no `UserDefaults.bool(forKey:)` scattered through 
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/Switchboard.git", from: "1.0.0"),
+    .package(url: "https://github.com/DeepakPal25/Switchboard.git", from: "1.0.0"),
 ],
 targets: [
     .target(name: "App", dependencies: [
